@@ -1,0 +1,16 @@
+level 1:
+1º: 34 movements 
+2º: 34 movements 
+3º: 34 movements 
+level 2:
+1º: 41 movements 
+2º: 41 movements 
+3º: 42 movements 
+level 3:
+1º: 59 movements 
+2º: 62 movements 
+3º: 64 movements 
+level 4:
+1º: 61 movements 
+2º: 61 movements 
+3º: 61 movements 
