@@ -1,2 +1,2 @@
 # Sokoban
-A simple 2D game based on sokoban.
+A 2D game based on sokoban.
